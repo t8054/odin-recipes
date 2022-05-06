@@ -1,0 +1,58 @@
+.h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+    font-weight: bold;
+}
+
+.pic1 {
+    height: auto;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+    
+}
+   
+.pic2 {
+    height: auto;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+.pic3 {
+    height: auto;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+.links {
+    list-style-type: none;
+    text-align: center;
+
+}
+
+.pic4 {
+    height: auto;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+    
+}
